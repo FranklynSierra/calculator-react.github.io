@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/calculator-react/static/css/main.8e8a2055.css",
+    "main.js": "/calculator-react/static/js/main.dfbf4934.js",
+    "static/media/FreeCodeCamp.png": "/calculator-react/static/media/FreeCodeCamp.cc98822c11b81a38c7fa.png",
+    "index.html": "/calculator-react/index.html",
+    "main.8e8a2055.css.map": "/calculator-react/static/css/main.8e8a2055.css.map",
+    "main.dfbf4934.js.map": "/calculator-react/static/js/main.dfbf4934.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e8a2055.css",
+    "static/js/main.dfbf4934.js"
+  ]
+}
